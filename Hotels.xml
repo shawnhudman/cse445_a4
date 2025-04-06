@@ -5,7 +5,7 @@
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E. 7th St</Street>
 			<City>Tempe</City>
@@ -17,7 +17,7 @@
 	<Hotel>
 		<Name>Marriott Marquis Times Square</Name>
 		<Phone>212-398-1900</Phone>
-		<Address NearestAirport="JFK International Airport">
+		<Address NearstAirport="JFK International Airport">
 			<Number>1535</Number>
 			<Street>Broadway</Street>
 			<City>New York</City>
@@ -30,7 +30,7 @@
 		<Name>Hilton San Francisco Union Square</Name>
 		<Phone>415-771-1400</Phone>
 		<Phone>245-852-1322</Phone>
-		<Address NearestAirport="San Francisco International Airport">
+		<Address NearstAirport="San Francisco International Airport">
 			<Number>750</Number>
 			<Street>Kearny St</Street>
 			<City>San Francisco</City>
@@ -42,7 +42,7 @@
 	<Hotel Rating="4.4">
 		<Name>Hyatt Regency</Name>
 		<Phone>312-465-1234</Phone>
-		<Address NearestAirport="OHare International Airport">
+		<Address NearstAirport="OHare International Airport">
 			<Number>151</Number>
 			<Street>E Wacker Dr</Street>
 			<City>Chicago</City>
@@ -54,7 +54,7 @@
 	<Hotel>
 		<Name>Ritz Carlton</Name>
 		<Phone>213-743-9823</Phone>
-		<Address NearestAirport="Los Angeles International Airport">
+		<Address NearstAirport="Los Angeles International Airport">
 			<Number>900</Number>
 			<Street>W Olympic Blvd</Street>
 			<City>Los Angeles</City>
@@ -68,7 +68,7 @@
 		<Phone>305-579-5800</Phone>
 		<Phone>432-454-9081</Phone>
 		<Phone>480-234-7099</Phone>
-		<Address NearestAirport="Miami International Airport">
+		<Address NearstAirport="Miami International Airport">
 			<Number>1100</Number>
 			<Street>Biscayne Blvd</Street>
 			<City>Miami</City>
@@ -81,7 +81,7 @@
 		<Name>Westin Bonaventure</Name>
 		<Phone>213-742-9000</Phone>
 		<Phone>832-991-3244</Phone>
-		<Address NearestAirport="Los Angeles International Airport">
+		<Address NearstAirport="Los Angeles International Airport">
 			<Number>404</Number>
 			<Street>S Figueroa St</Street>
 			<City>Los Angeles</City>
@@ -94,7 +94,7 @@
 		<Name>Sheraton</Name>
 		<Phone>313-963-9000</Phone>
 		<Phone>332-223-4433</Phone>
-		<Address NearestAirport="Detroit Metropolitan Wayne County Airport">
+		<Address NearstAirport="Detroit Metropolitan Wayne County Airport">
 			<Number>400</Number>
 			<Street>Monroe St</Street>
 			<City>Detroit</City>
@@ -106,7 +106,7 @@
 	<Hotel>
 		<Name>Four Seasons</Name>
 		<Phone>312-777-5000</Phone>
-		<Address NearestAirport="Ohare International Airport">
+		<Address NearstAirport="Ohare International Airport">
 			<Number>120</Number>
 			<Street>E Delaware Pl</Street>
 			<City>Chicago</City>
@@ -119,7 +119,7 @@
 		<Name>The Peninsula</Name>
 		<Phone>212-956-7000</Phone>
 		<Phone>322-122-8232</Phone>
-		<Address NearestAirport="JFK International Airport">
+		<Address NearstAirport="JFK International Airport">
 			<Number>700</Number>
 			<Street>5th Ave</Street>
 			<City>New York</City>
@@ -131,7 +131,7 @@
 	<Hotel>
 		<Name>InterContinental</Name>
 		<Phone>202-588-8000</Phone>
-		<Address NearestAirport="Ronald Reagan Washington National Airport">
+		<Address NearstAirport="Ronald Reagan Washington National Airport">
 			<Number>935</Number>
 			<Street>15th St</Street>
 			<City>Washington</City>
